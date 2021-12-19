@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Postal Codes",
+  "author":"Admin",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://postal-codes.net/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"m.tribunnews.com",
+      "target":"https://postal-codes.net/",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
